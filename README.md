@@ -2,7 +2,7 @@
 
 ## Link
 
-	http://code.tutsplus.com/tutorials/screen-scraping-with-nodejs--net-25560
+http://code.tutsplus.com/tutorials/screen-scraping-with-nodejs--net-25560
 
 ## Require
 
